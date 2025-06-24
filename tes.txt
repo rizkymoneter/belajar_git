@@ -2,6 +2,8 @@ test git
 
 test git 2
 
+test git 3
+
 
   git config --global user.email "rmoneter@gmail.com"
   git config --global user.name "Rizky Moneter"
